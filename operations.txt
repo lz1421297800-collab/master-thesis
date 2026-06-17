@@ -1,0 +1,6 @@
+%git clone HTTPS //克隆仓库
+%git pull //拉取更新
+git add . 
+git add 文件名   //添加修改
+git commit -m 'msgs' //添加标签
+git push//上传到云端
